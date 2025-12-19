@@ -1,7 +1,7 @@
-# 3D-SMLoc
-A Novel Dataset and Framework for 3D Semantic Mapping and Long-Term Localization in Underground Parking Lots
+# IPS-3D
+A Novel Dataset and Framework for 3D Semantic Mapping in Underground Parking Lots
 
-# 3D-SMLoc Overview
+# IPS-3D Overview
 - [Dataset Introduce](#1-dataset-introduce)
 - [Sensor specifications](#2-sensor-specifications)
 - [Dataset structure](#3-dataset-structure)
@@ -15,9 +15,8 @@ A Novel Dataset and Framework for 3D Semantic Mapping and Long-Term Localization
 <p align="center">
   <img src="images/1.png">
 </p>
-We build the first 3D semantic mapping and long-term localization dataset( 3D-SMLoc) for autonomous driving in 
-underground parking lots. Our dataset performs visual front-view, Inertial, surrounding-view and lidar data collection 
-over more than one year. The data contains different scenarios of underground parking lots in campus and shopping malls, 
+We build the first 3D semantic SLAM dataset(IPS-3D) for autonomous driving in 
+underground parking lots. Our dataset performs visual front-view, Inertial, surrounding-view and lidar data collection. The data contains different scenarios of underground parking lots in campus and shopping malls, 
 considering different lighting, traffic flow and other conditions. For each frame data, semantic features such as 
 contain columns, traffic signs, arrows, parking lines and speed bumps are carefully labeled.
 
